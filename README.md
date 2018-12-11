@@ -5,7 +5,7 @@ Grab the article at [https://blog.hasura.io/tutorial-fullstack-react-native-with
 
 ## Tips/Run
 
-* Abc...
+* [Install Hasura CLI](https://docs.platform.hasura.io/0.15/platform/manual/install-hasura-cli.html)
 
 ## What's it all about?
 
