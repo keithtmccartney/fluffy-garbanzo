@@ -6,6 +6,7 @@ Grab the article at [https://blog.hasura.io/tutorial-fullstack-react-native-with
 ## Tips/Run
 
 * [Install Hasura CLI](https://docs.platform.hasura.io/0.15/platform/manual/install-hasura-cli.html)
+* `$ hasura quickstart base todo-app-backend` "This command creates a directory which contains all the configuration related to your backend"
 
 ## What's it all about?
 
